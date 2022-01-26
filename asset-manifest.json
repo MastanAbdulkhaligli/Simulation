@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Simulation/static/css/main.559ae08a.css",
+    "main.js": "/Simulation/static/js/main.1964cc50.js",
+    "index.html": "/Simulation/index.html",
+    "main.559ae08a.css.map": "/Simulation/static/css/main.559ae08a.css.map",
+    "main.1964cc50.js.map": "/Simulation/static/js/main.1964cc50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.559ae08a.css",
+    "static/js/main.1964cc50.js"
+  ]
+}
