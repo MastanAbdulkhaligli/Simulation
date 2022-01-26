@@ -1,0 +1,94 @@
+.container {
+  margin-top: 40px;
+  justify-content: center;
+  background-color: white;
+  margin-right: auto;
+  margin-left: auto;
+  width: 750px;
+  border-radius: 5px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+  .container {
+    width: auto;
+  }
+  /* .btns {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-right: 25px;
+  } */
+}
+
+.btns {
+  display: flex;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: px;
+  margin-bottom: 25px;
+}
+
+/* CSS */
+.button-31 {
+  background-color: rgb(0, 99, 30);
+  border-radius: 4px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  /* display: inline-block; */
+  font-family: "Farfetch Basis", "Helvetica Neue", Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.5;
+  margin: 0;
+  max-width: none;
+  min-height: 44px;
+  min-width: 10px;
+  outline: none;
+  overflow: hidden;
+  padding: 9px 20px 8px;
+  /* position: relative; */
+  text-align: center;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: 100%;
+  margin-left: 25px;
+}
+
+.button-31:hover,
+.button-31:focus {
+  opacity: 0.75;
+}
+
+.forChart {
+  border: 1px solid;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-bottom: 15px;
+}
+
+.cal {
+  margin-top: 15px;
+  background-color: rgb(0, 99, 30);
+  width: 120px;
+  height: 40px;
+  font-family: "Farfetch Basis", "Helvetica Neue", Arial, sans-serif;
+  color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.cal:hover,
+.cal:focus {
+  opacity: 0.75;
+}
+
+.inp {
+  border-radius: 5px;
+  padding: 10px;
+}
